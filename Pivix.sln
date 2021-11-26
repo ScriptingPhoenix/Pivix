@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{C03B2732-5718-4F8A-9BB3-C602F7FB8E8A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pivix", "Pivix\Pivix.vcxproj", "{C910E0F2-92B3-4471-84CE-034B48E31B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C910E0F2-92B3-4471-84CE-034B48E31B5A}.Debug|x64.ActiveCfg = Debug|x64
+		{C910E0F2-92B3-4471-84CE-034B48E31B5A}.Debug|x64.Build.0 = Debug|x64
+		{C910E0F2-92B3-4471-84CE-034B48E31B5A}.Release|x64.ActiveCfg = Release|x64
+		{C910E0F2-92B3-4471-84CE-034B48E31B5A}.Release|x64.Build.0 = Release|x64
+		{C03B2732-5718-4F8A-9BB3-C602F7FB8E8A}.Debug|x64.ActiveCfg = Debug|x64
+		{C03B2732-5718-4F8A-9BB3-C602F7FB8E8A}.Debug|x64.Build.0 = Debug|x64
+		{C03B2732-5718-4F8A-9BB3-C602F7FB8E8A}.Release|x64.ActiveCfg = Release|x64
+		{C03B2732-5718-4F8A-9BB3-C602F7FB8E8A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8748F9A-04BF-418C-B736-CC6E909E68F8}
+	EndGlobalSection
+EndGlobal
