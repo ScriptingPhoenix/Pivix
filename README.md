@@ -1,2 +1,2 @@
 # Pivix
-Pivix Engine
+Pivix 3D Game Engine
